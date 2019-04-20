@@ -1,0 +1,44 @@
+[
+    {
+      "movieName": "Gully Boy",
+      "movieLength" : 2,
+      "rating" : 4,
+      "isGood": true,
+      "genres" :["romance","drama","musical"]
+    },
+    {
+        "movieName": "Fast n Furious",
+        "movieLength" : 3,
+        "rating" : 5,
+        "isGood": true,
+        "genres" :["drama","action","thriller"]
+      },
+      {
+        "movieName": "Captain Marvel",
+        "movieLength" : 2,
+        "rating" : 4.8,
+        "isGood": true,
+        "genres" :["drama","thriller","action"]
+      },
+      {
+        "movieName": "Inception",
+        "movieLength" : 3,
+        "rating" : 5,
+        "isGood": true,
+        "genres" :["drama","thriller"]
+      },
+      {
+        "movieName": "Barfi",
+        "movieLength" : 4,
+        "rating" : 4,
+        "isGood": true,
+        "genres" :["romance","drama","musical"]
+      },
+      {
+        "movieName": "Kal ho na Ho",
+        "movieLength" : 5,
+        "rating" : 3,
+        "isGood": false,
+        "genres" :["romance","drama","musical"]
+      }
+  ]
